@@ -31,5 +31,9 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "account": {
+    "dataSource": "db",
+    "public": true
   }
 }
